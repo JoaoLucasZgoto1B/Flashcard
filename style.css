@@ -7,6 +7,7 @@
     padding: 25px 30px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .cartao {
     width: 600px;
