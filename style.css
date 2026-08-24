@@ -4,10 +4,12 @@
     padding: 0;
 }
 .cabecalho {
+      background-color: #7e3e1c;
     padding: 25px 30px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+    
 }
 .cartao {
     width: 600px;
