@@ -41,3 +41,12 @@ footer {
   padding: 15px 25px; 
   color: #fff; 
 } 
+.dentro-cartao{
+  position: relative; 
+} 
+.frente-cartao, 
+.cartao-verso { 
+  position: absolute; 
+  border-radius: 12px; 
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+} 
