@@ -1,9 +1,12 @@
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 .cabecalho {
     padding: 25px 30px;
+    display: flex;
+    align-items: center;
 }
 .cartao {
     width: 600px;
@@ -12,4 +15,8 @@
 .cartao-imagem {
     width: 100%;
     height: 100%;
+}
+.body {
+    display: flex;
+    flex-direction: column;
 }
