@@ -77,3 +77,9 @@ footer {
    width: 100%;
    
 }
+.cartao-baixo {
+  display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap
+}
