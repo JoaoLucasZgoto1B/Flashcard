@@ -68,4 +68,5 @@ footer {
 }
 .todos-cards {
  display: flex;
+ gap: 27px;
 }
