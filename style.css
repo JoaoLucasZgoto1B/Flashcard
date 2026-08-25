@@ -66,4 +66,6 @@ footer {
 .cartao-verso {
  transform: rotateY(180deg);
 }
-
+.todos-cards {
+ display: flex;
+}
