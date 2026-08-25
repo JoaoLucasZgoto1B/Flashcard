@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+h1 {
+ padding: 20px;
+
+}
 .cabecalho {
       background-color: #002b63;
     padding: 25px 30px;
@@ -60,7 +64,7 @@ footer {
 .cartao-verso { 
   position: absolute; 
   border-radius: 12px; 
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+  box-shadow: 0 6px 12px rgba(0, 255, 255,15); 
   backface-visibility: hidden;
 } 
 
