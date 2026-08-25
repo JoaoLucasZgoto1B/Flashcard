@@ -67,7 +67,8 @@ footer {
  transform: rotateY(180deg);
 }
 .todos-cards {
-  display: grid;
+   display: flex;
+    flex-direction: column;
 
   gap: 20px;
   width: 100%;
