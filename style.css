@@ -93,3 +93,7 @@ footer {
       gap: 20px;
       flex-wrap: wrap
 }
+ .texto-verso {
+    font-size: 1.1rem;
+    margin: 0;
+  }
