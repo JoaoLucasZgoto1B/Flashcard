@@ -85,7 +85,7 @@ footer {
   height: 450px;
    
    background-color: var(--button-bg);
-   color: var(--verso-txt);
+   color: var(--button-text);
    
    
     text-align: center;
