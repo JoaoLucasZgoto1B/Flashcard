@@ -4,6 +4,7 @@
     padding: 0;
 }
 h2 {
+  color: var(--button-text);
  padding: 20px;
 
 }
@@ -83,7 +84,9 @@ footer {
    width: 300px;
   height: 450px;
    
-   color: var(--verso-txt);;
+   background-color: var(--button-bg);
+   color: var(--verso-txt);
+   
    
     text-align: center;
     padding: 10px;
@@ -115,7 +118,7 @@ footer {
   --header-bg: #f5f2f2;
   --button-bg: #333333;
   --button-text: #f5f2f2;
-  --verso-text: #0000;
+  
 }
 
 [data-theme="dark"] {
@@ -124,7 +127,7 @@ footer {
   --header-bg: #1e1e1e;
   --button-bg: #f5f2f2;
   --button-text: #121212;
-  --verso-text: #f5f2f2;
+  
 }
 
 button {
