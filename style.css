@@ -115,6 +115,7 @@ footer {
   --header-bg: #f5f2f2;
   --button-bg: #333333;
   --button-text: #f5f2f2;
+  --verso-text: #0000;
 }
 
 [data-theme="dark"] {
