@@ -70,6 +70,8 @@ footer {
 
 .cartao-verso {
  transform: rotateY(180deg);
+   width: 300px;
+  height: 450px;
 }
 .todos-cards {
    display: flex;
